@@ -1,0 +1,36 @@
+user_id,full_name,email,city,state,vehicle_model,battery_capacity_kwh
+1,Aarav Singh,evuser001@example.com,Bengaluru,Karnataka,Tata Nexon EV,30
+2,Isha Shah,evuser002@example.com,Chennai,Tamil Nadu,MG ZS EV,35
+3,Vivaan Iyer,evuser003@example.com,Jaipur,Rajasthan,Hyundai Kona,40
+4,Ananya Pawar,evuser004@example.com,Kochi,Kerala,Tata Tiago EV,45
+5,Aditya Reddy,evuser005@example.com,Pune,Maharashtra,BYD Atto 3,50
+6,Saanvi Jadhav,evuser006@example.com,Bengaluru,Karnataka,Mahindra XUV400,60
+7,Arjun Joshi,evuser007@example.com,Chennai,Tamil Nadu,Tata Nexon EV,72
+8,Diya Gupta,evuser008@example.com,Jaipur,Rajasthan,MG ZS EV,30
+9,Rohan Kulkarni,evuser009@example.com,Kochi,Kerala,Hyundai Kona,35
+10,Meera Khan,evuser010@example.com,Pune,Maharashtra,Tata Tiago EV,40
+11,Kabir Deshmukh,evuser011@example.com,Bengaluru,Karnataka,BYD Atto 3,45
+12,Aditi Nair,evuser012@example.com,Chennai,Tamil Nadu,Mahindra XUV400,50
+13,Reyansh Patil,evuser013@example.com,Jaipur,Rajasthan,Tata Nexon EV,60
+14,Kavya Mehta,evuser014@example.com,Kochi,Kerala,MG ZS EV,72
+15,Ishaan Sharma,evuser015@example.com,Pune,Maharashtra,Hyundai Kona,30
+16,Pooja Singh,evuser016@example.com,Bengaluru,Karnataka,Tata Tiago EV,35
+17,Rahul Shah,evuser017@example.com,Chennai,Tamil Nadu,BYD Atto 3,40
+18,Neha Iyer,evuser018@example.com,Jaipur,Rajasthan,Mahindra XUV400,45
+19,Om Pawar,evuser019@example.com,Kochi,Kerala,Tata Nexon EV,50
+20,Sneha Reddy,evuser020@example.com,Pune,Maharashtra,MG ZS EV,60
+21,Siddharth Jadhav,evuser021@example.com,Bengaluru,Karnataka,Hyundai Kona,72
+22,Riya Joshi,evuser022@example.com,Chennai,Tamil Nadu,Tata Tiago EV,30
+23,Atharv Gupta,evuser023@example.com,Jaipur,Rajasthan,BYD Atto 3,35
+24,Tanvi Kulkarni,evuser024@example.com,Kochi,Kerala,Mahindra XUV400,40
+25,Kunal Khan,evuser025@example.com,Pune,Maharashtra,Tata Nexon EV,45
+26,Priya Deshmukh,evuser026@example.com,Bengaluru,Karnataka,MG ZS EV,50
+27,Yash Nair,evuser027@example.com,Chennai,Tamil Nadu,Hyundai Kona,60
+28,Mira Patil,evuser028@example.com,Jaipur,Rajasthan,Tata Tiago EV,72
+29,Dev Mehta,evuser029@example.com,Kochi,Kerala,BYD Atto 3,30
+30,Sakshi Sharma,evuser030@example.com,Pune,Maharashtra,Mahindra XUV400,35
+31,Nikhil Singh,evuser031@example.com,Bengaluru,Karnataka,Tata Nexon EV,40
+32,Janhavi Shah,evuser032@example.com,Chennai,Tamil Nadu,MG ZS EV,45
+33,Akash Iyer,evuser033@example.com,Jaipur,Rajasthan,Hyundai Kona,50
+34,Shruti Pawar,evuser034@example.com,Kochi,Kerala,Tata Tiago EV,60
+35,Manav Reddy,evuser035@example.com,Pune,Maharashtra,BYD Atto 3,72

@@ -1,0 +1,16 @@
+station_id,station_name,city,state,operator,connector_type,power_kw,charging_ports,status
+1,Pune EV Hub 1,Pune,Maharashtra,Tata Power,CCS2,22,2,Active
+2,Mumbai EV Hub 2,Mumbai,Maharashtra,ChargeZone,Type 2,30,4,Active
+3,Nagpur EV Hub 3,Nagpur,Maharashtra,Statiq,CHAdeMO,50,6,Active
+4,Bengaluru EV Hub 1,Bengaluru,Karnataka,Ather Grid,Bharat AC-001,60,8,Maintenance
+5,Mysuru EV Hub 2,Mysuru,Karnataka,Zeon Charging,CCS2,120,2,Active
+6,Hyderabad EV Hub 3,Hyderabad,Telangana,Tata Power,Type 2,150,4,Active
+7,Chennai EV Hub 1,Chennai,Tamil Nadu,ChargeZone,CHAdeMO,22,6,Active
+8,Coimbatore EV Hub 2,Coimbatore,Tamil Nadu,Statiq,Bharat AC-001,30,8,Maintenance
+9,Delhi EV Hub 3,Delhi,Delhi,Ather Grid,CCS2,50,2,Active
+10,Jaipur EV Hub 1,Jaipur,Rajasthan,Zeon Charging,Type 2,60,4,Active
+11,Ahmedabad EV Hub 2,Ahmedabad,Gujarat,Tata Power,CHAdeMO,120,6,Active
+12,Surat EV Hub 3,Surat,Gujarat,ChargeZone,Bharat AC-001,150,8,Maintenance
+13,Kochi EV Hub 1,Kochi,Kerala,Statiq,CCS2,22,2,Active
+14,Indore EV Hub 2,Indore,Madhya Pradesh,Ather Grid,Type 2,30,4,Active
+15,Lucknow EV Hub 3,Lucknow,Uttar Pradesh,Zeon Charging,CHAdeMO,50,6,Active
